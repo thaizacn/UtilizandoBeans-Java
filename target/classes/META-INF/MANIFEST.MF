@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: thaiz
+Build-Jdk: 17.0.2
+Implementation-Title: UtilizandoBeans
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.beans
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/UtilizandoBeans
+Created-By: Maven Integration for Eclipse
+
